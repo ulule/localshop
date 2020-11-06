@@ -26,7 +26,7 @@ setup(
     packages=find_packages(),
     zip_safe=False,
     install_requires=[
-        'Django==1.7.8',
+        'Django==1.11.29',
         'Pillow==2.8.1',
         'celery==3.1.18',
         'kombu==3.0.26',
