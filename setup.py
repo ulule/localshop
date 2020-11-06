@@ -27,7 +27,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'Django==1.7.8',
-        'Pillow==2.8.1',
+        'Pillow==7.1.0',
         'celery==3.1.18',
         'kombu==3.0.26',
         'django-braces==1.8.0',
